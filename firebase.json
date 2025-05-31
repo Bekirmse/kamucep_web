@@ -1,0 +1,1 @@
+{"hosting":{"public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"],"rewrites":[{"source":"**","destination":"/index.html"}]},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"kamucep-web","configurations":{"web":"1:729636224991:web:276b1539e19158570f8e6a"}}}}}}
